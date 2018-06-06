@@ -16,3 +16,7 @@ change?
 organized? How would branches help?
 
 	When we want to experiment a new feature but aren't sure if it will work and do not want to disturb the whole project, we can experiment by creating a separate branch and then later merge if the experiment works out. Also, suppose we wanna add an Italian version of our project but ain't sure, then we can again use a separate branch, and later include an option in settings for the Italian version too by merging, etc.
+
+5. How do the diagrams help you visualize the branch structure?
+
+	Diagrams are very useful in visualizing how our project works/splits into multiple branches and how some branches are merged back to the master/main branch. This helps to keep a track of how we are proceeding with our project and helps to be clear in our work.
