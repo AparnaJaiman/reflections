@@ -21,7 +21,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    git log shows the list of commits made along with the author and time, so it is helpful. Also, git diff allows us to view differences between 2 files without manually comparing 100s of lines of code.
 
 How might using version control make you more confident to make changes that
 could break something?
