@@ -1,3 +1,9 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 
 	When git init command is called, it initialises the repository which creates a hidden .git file in the working directory. So now, we can use git commands.  Then, by using various git commands, we can create or checkout commits and branches. 
+
+2. How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	It is a temporary area which acts like a placeholder for files we wanna include in our commit. We can add selective or all files in it and then add it to the repository once we are sure about the files to add.
+
