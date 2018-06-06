@@ -26,7 +26,7 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Version control allows us to checkout to a previous commit, so anytime we can go back to a previous commit, hence there is no risk in making experimental changes if you have once commited your working code.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
