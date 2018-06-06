@@ -27,3 +27,9 @@ the diagram the way we do?
 
 
 	On merging two branches together, the new features or changes introduced are all reflected into one single branch/commit. So, its very useful when you are working in groups (or even individually), as you can focus on separate features and when they work out you can finally merge them. Diagrams are used for representation as they can be very helpful in having a clear understanding of the workflow of the project, when and where different branched were created and when were they merged.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+
+
+	Git's automatic merging saves a lot of overhead of figuring out the differences between files and the changes to be made. Manually merging is time-consuming.
