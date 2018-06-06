@@ -20,3 +20,10 @@ organized? How would branches help?
 5. How do the diagrams help you visualize the branch structure?
 
 	Diagrams are very useful in visualizing how our project works/splits into multiple branches and how some branches are merged back to the master/main branch. This helps to keep a track of how we are proceeding with our project and helps to be clear in our work.
+
+6. What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+
+
+	On merging two branches together, the new features or changes introduced are all reflected into one single branch/commit. So, its very useful when you are working in groups (or even individually), as you can focus on separate features and when they work out you can finally merge them. Diagrams are used for representation as they can be very helpful in having a clear understanding of the workflow of the project, when and where different branched were created and when were they merged.
