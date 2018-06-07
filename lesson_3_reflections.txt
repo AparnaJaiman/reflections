@@ -11,6 +11,16 @@
 	It can help in keeping a track of differences between local and remote repo.
                Also, it gives clear vision about when to fetch and when to merge.
 
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Git or Github can be used to collaborate as they allow us to push changes from local to remote repo 
+               or pull changes from remote to the local master branch of our (local) repo. If you are working in a 
+               group and want to share some changes but ain't sure, then you can push changes to remote repo 
+               from a different branch and publish a pull request on GitHub. If your co-workers want to incorporate 
+               those changes, they can accept your pull request and merge those changes into the master branch, if not,
+               they can also leave a comment suggesting improvement. Clearly, all this makes it very easy to communicate
+               changes to your collaborators and helps to keep local and remote repo in sync. It would have been very hard
+               to accomplish such a coordination in a group project if all this was not available.
+
 
 
  
